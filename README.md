@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Almeida!👋 / Hello! I'm Matheus Almeida
 
 - 🔭 Procurando oportunidades em Desenvolvimento! / Looking for opportunity in Development!
-- 🌱 Estudando HTML,CSS, JS, C# and Kotlin! / Studying C++, C# and Kotlin!
+- 🌱 Estudando HTML, CSS, JS, C# and Kotlin! / Studying C++, C# and Kotlin!
 - 📫 Contatos no Linkedin! / Contact me at Linkedin! 
 
 <div style="display: inline_block"><br>
