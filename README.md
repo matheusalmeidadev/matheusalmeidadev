@@ -1,4 +1,4 @@
-## Olá! Eu sou o Matheus Almeida!👋 / Hello! I'm Matheus Almeida
+## Olá! Eu sou o Matheus Almeida! 🇧🇷 / Hello! I'm Matheus Almeida 🇺🇸
 
 - 🔭 Procurando oportunidades em Desenvolvimento! / Looking for opportunity in Development!
 - 🌱 Estudando HTML, CSS, JS, C# and Flutter! / Studying HTML, CSS, JS, C# and Flutter!
