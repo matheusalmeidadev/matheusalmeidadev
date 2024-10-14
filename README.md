@@ -9,8 +9,9 @@
   
 <a href="https://www.linkedin.com/in/matheusalmeida-/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    class="media-object img-responsive img-thumbnail" alt="LinkedIn Badge">
+    alt="LinkedIn" class="media-object img-responsive img-thumbnail">
 </a>
+
 
   
 </div>
