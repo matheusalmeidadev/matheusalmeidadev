@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Almeida! 🇧🇷 / Hello! I'm Matheus Almeida 🇺🇸
 
 - 🔭 Procurando oportunidades em Desenvolvimento! / Looking for opportunity in Development!
-- 🌱 No momento, estudando Java e Springboot / At the moment, i'm studying Java and Springboot
+- 🌱 No momento, estudando JS, Node.JS / At the moment, i'm studying Java and Springboot
 - 📫 Contatos no Linkedin! / Contact me at Linkedin! 
 
 ##
@@ -17,3 +17,11 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ---
+ 
+<div align="center">
+ 
+💼 Aberto a oportunidades em back-end e automações
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+ 
+</div>
