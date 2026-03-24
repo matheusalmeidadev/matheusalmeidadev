@@ -18,7 +18,7 @@
 
 ---
  
-<div align="center">
+<div>
  
 💼 Aberto a oportunidades em back-end e automações
  
