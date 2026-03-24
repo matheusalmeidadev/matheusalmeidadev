@@ -31,6 +31,6 @@ Olá! Eu sou o Matheus Almeida! 🇧🇷 / Hello! I'm Matheus Almeida 🇺🇸
  
 💼 Aberto a oportunidades em back-end e automações
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusalmeida-/)
  
 </div>
