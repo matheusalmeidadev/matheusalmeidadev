@@ -26,26 +26,12 @@ I spend my days connecting systems, building workflows, and making APIs talk to 
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 </div>
-
----
-
-## 🔌 A little more about me
-
-```js
-const matheus = {
-  backend:    ["Node.js", "REST APIs", "Webhooks", "JSON"],
-  automation: ["n8n", "workflows", "data pipelines"],
-  chatbots:   ["WhatsApp", "API integrations", "conversational flows"]
-};
-```
 
 ---
 
