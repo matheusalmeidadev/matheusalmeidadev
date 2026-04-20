@@ -2,11 +2,11 @@
 
 # Hey, I'm Matheus Almeida! 👋🇧🇷
 
-Jr Developer focused on **automations**, **integrations**, and **chatbots**.<br/>
-I spend my days connecting systems, building workflows, and making APIs talk to each other.
+Developer focused on **back-end development** and **automations**.<br/>
+I enjoy building solutions that connect systems, automate processes, and improve workflows.
 
-🔭 Open to new opportunities in Back-End Development<br/>
-🌱 Currently learning **Node.js**<br/>
+🔭 Open to opportunities in **Back-End Development**, **Automation**, and other areas in technology<br/>
+🌱 Currently studying **Node.js**<br/>
 📫 Reach me on **LinkedIn**
 
 </div>
@@ -16,9 +16,9 @@ I spend my days connecting systems, building workflows, and making APIs talk to 
 ## 💻 What I work with
 
 - 🤖 **Chatbots** — conversational bots integrated with WhatsApp and other channels
-- 🔗 **REST APIs** — consuming, integrating, and building endpoints
 - ⚙️ **n8n** — workflow automation, data pipelines, and system integrations
 - 🟨 **JavaScript / Node.js** — back-end logic, webhooks, and JSON processing
+- ☕ **Java** — back-end fundamentals and API development
 
 ---
 
@@ -28,7 +28,6 @@ I spend my days connecting systems, building workflows, and making APIs talk to 
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
